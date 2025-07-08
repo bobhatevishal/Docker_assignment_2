@@ -107,11 +107,3 @@ docker run -d --name httpd --network my_network httpd
 docker exec -it nginx apt-get update && apt-get install -y curl
 docker exec -it nginx curl http://httpd
 ```
-
----
-
-## 🌐 Docker Hub
-
-* Public and private repositories can be managed at [Docker Hub](https://hub.docker.com).
-
----
